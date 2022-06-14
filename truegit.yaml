@@ -4,7 +4,7 @@ description: I love React so much that I overReact.
 theme: "#CF508A"
 # This folder is where all the files related to the blog would live
 blogFolder: blog
-bannerImage: /banner.webp
+bannerImage/banner.webp
 logoImage: ./logo.png
 navLinks:
   - title: Docs
