@@ -1,2 +1,4 @@
 title: Sample Collection
 description: This is the description of a sample collection.
+skipPostListing: true
+enableFeedMode: true
