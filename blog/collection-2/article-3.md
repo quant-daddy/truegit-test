@@ -1,6 +1,7 @@
 ---
 title: Test Markdown Features
 subTitle: This article is test other markdown features
+slug: my-fancy-slug
 ---
 
 # An h1 header
