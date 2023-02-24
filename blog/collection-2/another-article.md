@@ -2,6 +2,8 @@
 slug: another-article
 title: Another Article
 subTitle: This article is to test all the Github Flavored markdown features.
+authors:
+  - "@noquote"
 ---
 
 <div id="top"></div>
