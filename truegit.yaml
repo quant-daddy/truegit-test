@@ -6,13 +6,11 @@ theme: "#CF508A"
 blogFolder: blog
 bannerImage: /banner.webp
 logoImage: ./logo.png
-navLinks:
-  - title: Docs
-    url: https://docs.truegit.io
-    isExternal: true
-  - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
-    isExternal: true
+titleFont: "ROBOTO_SLAB"
+bodyFont: "ROBOTO_MONO"
+keywords: ["Programming"]
+feed:
+  featuredAuthor: quantdaddy
 socials:
   linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
   instagram: https://www.instagram.com/quantdaddy/
